@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-guidelines-definition-default",
+    "titolo": "EBA amends Guidelines on the definition of default",
+    "fonte": "European Banking Authority",
+    "data_pubblicazione": "2026-05-07",
+    "tag": "Normativa|Risk",
+    "desc": "L'EBA pubblica le linee guida finali che modificano la definizione di default: esteso da 30 a 90 giorni il trattamento past-due per il factoring non-recourse e confermata la soglia NPV dell'1% per le ristrutturazioni del debito.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": true,
+    "inviato_a_m3": true
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260507~8af27d170e.en.html",
+    "titolo": "ECB publishes report on Financial integration and structure in the euro area",
+    "fonte": "European Central Bank",
+    "data_pubblicazione": "2026-05-07",
+    "tag": "Normativa|Fintech",
+    "desc": "La BCE pubblica il rapporto sull'integrazione finanziaria nell'area euro: l'integrazione è migliorata dai livelli del 2022 ma persistono frammentazioni strutturali che limitano crescita, innovazione e competitività.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": false,
+    "inviato_a_m3": false
+  },
+  {
+    "url": "https://www.consob.it/web/area-pubblica/dettaglio-news/-/asset_publisher/qjVSo44Lk1fI/content/comunicato-stampa-del-7-maggio-2026/10194",
+    "titolo": "Consob autorizza il primo fornitore di servizi per cripto-attività (Casp)",
+    "fonte": "Consob",
+    "data_pubblicazione": "2026-05-07",
+    "tag": "Normativa|Fintech",
+    "desc": "La Consob rilascia la prima autorizzazione come Crypto-Asset Service Provider a CheckSig S.r.l., in applicazione del Regolamento europeo MiCA. Gli operatori iscritti come Vasp dovranno ottenere l'autorizzazione entro il 30 giugno 2026.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": false,
+    "inviato_a_m3": false
+  },
+  {
+    "url": "https://www.bancaditalia.it/pubblicazioni/bollettino-eco-bce/index.html",
+    "titolo": "Bollettino economico BCE n. 3 - 2026",
+    "fonte": "Banca d'Italia",
+    "data_pubblicazione": "2026-05-15",
+    "tag": "Normativa|Risk",
+    "desc": "Pubblicato il Bollettino economico BCE del terzo trimestre 2026, con analisi dettagliate sui recenti andamenti economici e monetari nell'area dell'euro, incluso l'impatto dello shock energetico da conflitto in Medio Oriente.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": true,
+    "inviato_a_m3": true
+  },
+  {
+    "url": "https://www.consob.it/web/consob",
+    "titolo": "Consob: nuovo pacchetto di semplificazioni regolamentari",
+    "fonte": "Consob",
+    "data_pubblicazione": "2026-05-15",
+    "tag": "Normativa",
+    "desc": "La Consob approva modifiche regolamentari per ridurre oneri amministrativi: innalzamento da 20.000 a 50.000 euro della soglia per internal dealing, eliminazione obblighi di deposito prospetti ed estensione uso lingua inglese nelle offerte pubbliche.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": false,
+    "inviato_a_m3": false
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260504~bb7a0cbf4c.en.html",
+    "titolo": "Results of the ECB Survey of Professional Forecasters for Q2 2026",
+    "fonte": "European Central Bank",
+    "data_pubblicazione": "2026-05-04",
+    "tag": "Risk",
+    "desc": "Il Survey of Professional Forecasters (condotto tra 31 marzo e 8 aprile 2026) rivela aspettative di inflazione al 2,7% per il 2026 e crescita PIL all'1,0%, riviste al ribasso rispetto al trimestre precedente per l'impatto delle tensioni geopolitiche.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": false,
+    "inviato_a_m3": false
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/annual-reports-financial-statements/wfs/2026/html/ecb.fs260519.en.html",
+    "titolo": "Consolidated financial statement of the Eurosystem as at 15 May 2026",
+    "fonte": "European Central Bank",
+    "data_pubblicazione": "2026-05-19",
+    "tag": "Normativa",
+    "desc": "Pubblicato il bilancio consolidato dell'Eurosistema al 15 maggio 2026: la base monetaria è aumentata di 7,9 miliardi a EUR 4.050,2 miliardi, mentre il saldo netto delle operazioni di mercato aperto è diminuito di 11,3 miliardi.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": false,
+    "inviato_a_m3": false
+  },
+  {
+    "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260513_annex~cfdc2fe196.en.pdf",
+    "titolo": "Outlook for the euro area economy - ECB speech annex",
+    "fonte": "European Central Bank",
+    "data_pubblicazione": "2026-05-13",
+    "tag": "Risk",
+    "desc": "Annex del discorso BCE sull'outlook dell'economia dell'area euro con dati aggiornati al 12 maggio 2026: analisi delle condizioni finanziarie, aspettative inflazione e impatto dello shock energetico da conflitto Medio Oriente sulla crescita e prezzi.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": true,
+    "inviato_a_m3": true
+  }
+]
