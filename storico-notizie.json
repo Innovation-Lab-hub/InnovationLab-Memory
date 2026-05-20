@@ -1,5 +1,71 @@
 [
   {
+    "url": "https://www.srb.europa.eu/en/content/srb-launches-its-consultation-updated-operational-guidance-liquidity-and-funding-resolution",
+    "titolo": "SRB launches public consultation on updated operational guidance on liquidity and funding in resolution",
+    "fonte": "Single Resolution Board",
+    "data_pubblicazione": "2026-05-11",
+    "tag": "Normativa|Risk",
+    "desc": "L'SRB ha avviato una consultazione pubblica sulla guidance operativa consolidata per liquidità e funding in risoluzione, aggiornando le aspettative per le banche alla luce dell'esperienza pratica e della crisi bancaria del 2023. La consultazione è aperta fino al 6 luglio 2026.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": true,
+    "inviato_a_m3": true
+  },
+  {
+    "url": "https://www.srb.europa.eu/en/content/srb-bi-annual-reporting-note-eurogroup-may-2026",
+    "titolo": "SRB Bi-annual reporting note to Eurogroup – May 2026",
+    "fonte": "Single Resolution Board",
+    "data_pubblicazione": "2026-05-04",
+    "tag": "Normativa|Risk",
+    "desc": "La nota fornisce un aggiornamento sullo stato di resolvability delle banche sotto la supervisione dell'SRB e il lavoro del meccanismo unico di risoluzione per migliorare la preparedness operativa. Analizza inoltre il dibattito sulla competitività da una prospettiva di crisis management e tocca i temi di resilienza operativa e nuovi rischi.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": true,
+    "inviato_a_m3": true
+  },
+  {
+    "url": "https://www.srb.europa.eu/en/content/srb-statement-crisis-management-and-deposit-insurance-publication-official-journal-eu",
+    "titolo": "SRB statement: Crisis Management and Deposit Insurance publication in the Official Journal of the EU",
+    "fonte": "Single Resolution Board",
+    "data_pubblicazione": "2026-04-20",
+    "tag": "Normativa",
+    "desc": "L'SRB accoglie con favore la pubblicazione della riforma CMDI nella Gazzetta Ufficiale dell'UE. La riforma amplia il toolkit esistente fornendo più opzioni per gestire banche di piccole e medie dimensioni in crisi, e perfeziona elementi tecnici del framework sulla base delle lezioni apprese nel primo decennio del Meccanismo Unico di Risoluzione.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": false,
+    "inviato_a_m3": false
+  },
+  {
+    "url": "https://www.srb.europa.eu/en/content/srb-publishes-its-response-commission-consultation-eu-banking-sector-competitiveness",
+    "titolo": "SRB publishes its response to Commission consultation on EU banking sector competitiveness",
+    "fonte": "Single Resolution Board",
+    "data_pubblicazione": "2026-04-15",
+    "tag": "Normativa",
+    "desc": "L'SRB ha pubblicato la sua risposta alla consultazione della Commissione Europea sulla competitività del settore bancario UE, concentrandosi su aree come il framework europeo integrato per la protezione dei depositi, il rafforzamento della liquidità in risoluzione e l'allocazione transfrontaliera di capitale e liquidità.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": true,
+    "inviato_a_m3": true
+  },
+  {
+    "url": "https://www.srb.europa.eu/en/content/public-consultation-operational-guidance-liquidity-and-funding-resolution",
+    "titolo": "Public consultation on the Operational Guidance on Liquidity and Funding in Resolution",
+    "fonte": "Single Resolution Board",
+    "data_pubblicazione": "2026-05-08",
+    "tag": "Normativa|Risk",
+    "desc": "L'SRB sta aggiornando e consolidando in un unico documento la sua guidance operativa su liquidità e funding in risoluzione. L'aggiornamento include modifiche agli scenari metodologici per la stima dei fabbisogni di liquidità, compresi la durata degli scenari fast-moving e aspettative su governance e granularità delle informazioni collaterali.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": true,
+    "inviato_a_m3": true
+  },
+  {
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/04/remarks-by-kyriakos-pierrakakis-following-the-eurogroup-meeting-of-4-may-2026/",
+    "titolo": "Remarks by Kyriakos Pierrakakis following the Eurogroup meeting of 4 May 2026",
+    "fonte": "Council of the European Union",
+    "data_pubblicazione": "2026-05-04",
+    "tag": "Normativa|AI",
+    "desc": "L'Eurogruppo ha discusso la resilienza operativa delle banche in termini di cybersecurity e uso dell'intelligenza artificiale. È stato confermato che il settore bancario europeo è resiliente, ma le banche devono essere preparate per un ambiente di incertezza elevata e rapido cambiamento tecnologico, con i modelli AI frontier che presentano potenziali sfide di natura sistemica.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": false,
+    "inviato_a_m3": false
+  },
+  {
     "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-guidelines-definition-default",
     "titolo": "EBA amends Guidelines on the definition of default",
     "fonte": "European Banking Authority",
