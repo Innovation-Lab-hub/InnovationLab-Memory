@@ -1,5 +1,90 @@
 [
   {
+    "url": "https://www.srb.europa.eu/en/content/srb-bi-annual-reporting-note-eurogroup-may-2026",
+    "titolo": "SRB pubblica il rapporto semestrale all'Eurogruppo sulla risolvibilità delle banche",
+    "fonte": "Single Resolution Board",
+    "data_pubblicazione": "2026-05-04",
+    "tag": "Normativa",
+    "tags": {
+      "ambito": "Banche",
+      "materia": "BRRD",
+      "ente": "SRB"
+    },
+    "desc": "Il SRB ha pubblicato il rapporto semestrale all'Eurogruppo di maggio 2026 con aggiornamenti sulla risolvibilità delle banche e sulla preparazione operativa alle crisi, analizzando anche competitività e nuovi rischi.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": true,
+    "pdf_github_url": "https://raw.githubusercontent.com/Innovation-Lab-hub/InnovationLab-Memory/main/pdf/srb-pubblica-il-rapporto-semestrale-alleurogruppo-sulla-risolvibilit-delle-banch.pdf",
+    "inviato_a_m3": true
+  },
+  {
+    "url": "https://www.bancaditalia.it/media/notizia/nuova-guida-per-l-attivit-di-vigilanza/",
+    "titolo": "Banca d'Italia: nuova Guida per l'attività di vigilanza",
+    "fonte": "Banca d'Italia",
+    "data_pubblicazione": "2026-05-05",
+    "tag": "Normativa",
+    "tags": {
+      "ambito": "",
+      "materia": "",
+      "ente": "Banca d'Italia"
+    },
+    "desc": "Banca d'Italia ha pubblicato la nuova versione razionalizzata della Guida per l'attività di vigilanza (Circolare 269/2008), nell'ambito del progetto di semplificazione dei processi e strumenti di vigilanza prudenziale.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": false,
+    "pdf_github_url": null,
+    "inviato_a_m3": false
+  },
+  {
+    "url": "https://uif.bancaditalia.it/normativa/norm-indicatori-anomalia/index.html",
+    "titolo": "UIF: comunicazione sulla prevenzione di attività illecite connesse con violazioni di misure restrittive UE",
+    "fonte": "UIF - Banca d'Italia",
+    "data_pubblicazione": "2026-05-07",
+    "tag": "Normativa",
+    "tags": {
+      "ambito": "",
+      "materia": "",
+      "ente": ""
+    },
+    "desc": "L'UIF ha pubblicato il 7 maggio 2026 una comunicazione sulla prevenzione di attività illecite connesse con violazioni di misure restrittive dell'Unione Europea, introducendo nel sistema RADAR un nuovo codice fenomeno V01.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": true,
+    "pdf_github_url": null,
+    "inviato_a_m3": true
+  },
+  {
+    "url": "https://www.srb.europa.eu/en",
+    "titolo": "SRB avvia consultazione su guidance operativa per liquidità e funding in risoluzione",
+    "fonte": "Single Resolution Board",
+    "data_pubblicazione": "2026-05-11",
+    "tag": "Normativa",
+    "tags": {
+      "ambito": "",
+      "materia": "",
+      "ente": ""
+    },
+    "desc": "Il SRB ha lanciato l'11 maggio 2026 una consultazione pubblica (fino al 6 luglio 2026) sulla guidance operativa aggiornata per liquidità e funding in risoluzione, incorporando lezioni apprese da esercizi pratici.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": true,
+    "pdf_github_url": "https://raw.githubusercontent.com/Innovation-Lab-hub/InnovationLab-Memory/main/pdf/srb-avvia-consultazione-su-guidance-operativa-per-liquidit-e-funding-in-risoluzi.pdf",
+    "inviato_a_m3": true
+  },
+  {
+    "url": "https://www.bancaditalia.it/media/notizia/amla-pubblicato-il-modello-di-segnalazione-per-l-individuazione-degli-intermediari-inclusi-nella-selezione-per-la-vigilanza-diretta/",
+    "titolo": "Banca d'Italia: pubblicato modello segnalazione AMLA per vigilanza diretta antiriciclaggio",
+    "fonte": "Banca d'Italia",
+    "data_pubblicazione": "2026-05-12",
+    "tag": "Normativa",
+    "tags": {
+      "ambito": "",
+      "materia": "",
+      "ente": ""
+    },
+    "desc": "Banca d'Italia comunica la pubblicazione del modello di segnalazione AMLA per l'individuazione degli intermediari soggetti a vigilanza diretta in materia antiriciclaggio. Le autorità nazionali cureranno la raccolta dati, con webinar AMLA previsto per il 10 giugno 2026.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": false,
+    "pdf_github_url": null,
+    "inviato_a_m3": false
+  },
+  {
     "url": "https://www.srb.europa.eu/en/content/srb-launches-its-consultation-updated-operational-guidance-liquidity-and-funding-resolution",
     "titolo": "SRB launches consultation on updated operational guidance on liquidity and funding in resolution",
     "fonte": "Single Resolution Board",
