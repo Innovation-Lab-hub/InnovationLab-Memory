@@ -1,0 +1,129 @@
+{
+  "config": {
+    "numNotizie": 8,
+    "giorniIndietro": 10,
+    "lingua": "entrambe",
+    "topics": [
+      {
+        "id": "Normativa",
+        "livello": 1
+      }
+    ]
+  },
+  "notizie": [
+    {
+      "titolo": "SRB pubblica il rapporto semestrale all'Eurogruppo sulla risolvibilità delle banche",
+      "fonte": "Single Resolution Board",
+      "url": "https://www.srb.europa.eu/en/content/srb-bi-annual-reporting-note-eurogroup-may-2026",
+      "data": "2026-05-04",
+      "tag": "Normativa",
+      "tags": {
+        "ambito": "Banche",
+        "materia": "BRRD",
+        "ente": "SRB"
+      },
+      "sintesi": "Il SRB ha pubblicato il rapporto semestrale all'Eurogruppo di maggio 2026 con aggiornamenti sulla risolvibilità delle banche e sulla preparazione operativa alle crisi, analizzando anche competitività e nuovi rischi.",
+      "rilevanza": "alta",
+      "pdf": "diretto",
+      "stato": "approved"
+    },
+    {
+      "titolo": "Banca d'Italia: nuova Guida per l'attività di vigilanza",
+      "fonte": "Banca d'Italia",
+      "url": "https://www.bancaditalia.it/media/notizia/nuova-guida-per-l-attivit-di-vigilanza/",
+      "data": "2026-05-05",
+      "tag": "Normativa",
+      "tags": {
+        "ambito": "",
+        "materia": "",
+        "ente": "Banca d'Italia"
+      },
+      "sintesi": "Banca d'Italia ha pubblicato la nuova versione razionalizzata della Guida per l'attività di vigilanza (Circolare 269/2008), nell'ambito del progetto di semplificazione dei processi e strumenti di vigilanza prudenziale.",
+      "rilevanza": "alta",
+      "pdf": "nessuno",
+      "stato": "approved"
+    },
+    {
+      "titolo": "UIF: comunicazione sulla prevenzione di attività illecite connesse con violazioni di misure restrittive UE",
+      "fonte": "UIF - Banca d'Italia",
+      "url": "https://uif.bancaditalia.it/normativa/norm-indicatori-anomalia/index.html",
+      "data": "2026-05-07",
+      "tag": "Normativa",
+      "tags": {
+        "ambito": "",
+        "materia": "",
+        "ente": ""
+      },
+      "sintesi": "L'UIF ha pubblicato il 7 maggio 2026 una comunicazione sulla prevenzione di attività illecite connesse con violazioni di misure restrittive dell'Unione Europea, introducendo nel sistema RADAR un nuovo codice fenomeno V01.",
+      "rilevanza": "alta",
+      "pdf": "diretto",
+      "stato": "approved"
+    },
+    {
+      "titolo": "SRB avvia consultazione su guidance operativa per liquidità e funding in risoluzione",
+      "fonte": "Single Resolution Board",
+      "url": "https://www.srb.europa.eu/en",
+      "data": "2026-05-11",
+      "tag": "Normativa",
+      "tags": {
+        "ambito": "",
+        "materia": "",
+        "ente": ""
+      },
+      "sintesi": "Il SRB ha lanciato l'11 maggio 2026 una consultazione pubblica (fino al 6 luglio 2026) sulla guidance operativa aggiornata per liquidità e funding in risoluzione, incorporando lezioni apprese da esercizi pratici.",
+      "rilevanza": "alta",
+      "pdf": "diretto",
+      "stato": "approved"
+    },
+    {
+      "titolo": "PUMA: aggiornamenti database e documentazione segnaletica",
+      "fonte": "Cooperazione PUMA",
+      "url": "https://www.cooperazionepuma.org/",
+      "data": "2026-05-12",
+      "tag": "Normativa",
+      "tags": {
+        "ambito": "",
+        "materia": "",
+        "ente": ""
+      },
+      "sintesi": "PUMA ha pubblicato il 12 maggio 2026 aggiornamenti nella sezione Codifiche e Manuale, oltre alla nuova versione del database riferita alla data contabile del 31/03/2026.",
+      "rilevanza": "media",
+      "pdf": "nessuno",
+      "stato": "discarded"
+    },
+    {
+      "titolo": "Consob oscura 8 siti internet per abusivismo finanziario",
+      "fonte": "Consob",
+      "url": "https://www.consob.it/web/area-pubblica/avvisi-ai-risparmiatori/ultime",
+      "data": "2026-05-15",
+      "tag": "Normativa",
+      "tags": {
+        "ambito": "",
+        "materia": "",
+        "ente": ""
+      },
+      "sintesi": "Consob ha oscurato l'15 maggio 2026 otto siti internet che offrivano abusivamente servizi finanziari, tra cui BitGptApp, Ucapitalinvest, Algo Quant Hft, Lotment Capital, goldwire-limited.com e anima-capitalpartners.com.",
+      "rilevanza": "media",
+      "pdf": "nessuno",
+      "stato": "discarded"
+    },
+    {
+      "titolo": "Banca d'Italia: pubblicato modello segnalazione AMLA per vigilanza diretta antiriciclaggio",
+      "fonte": "Banca d'Italia",
+      "url": "https://www.bancaditalia.it/media/notizia/amla-pubblicato-il-modello-di-segnalazione-per-l-individuazione-degli-intermediari-inclusi-nella-selezione-per-la-vigilanza-diretta/",
+      "data": "2026-05-12",
+      "tag": "Normativa",
+      "tags": {
+        "ambito": "",
+        "materia": "",
+        "ente": ""
+      },
+      "sintesi": "Banca d'Italia comunica la pubblicazione del modello di segnalazione AMLA per l'individuazione degli intermediari soggetti a vigilanza diretta in materia antiriciclaggio. Le autorità nazionali cureranno la raccolta dati, con webinar AMLA previsto per il 10 giugno 2026.",
+      "rilevanza": "alta",
+      "pdf": "nessuno",
+      "stato": "approved"
+    }
+  ],
+  "timestamp": "2026-05-22T16:42:33.803Z",
+  "notizie_aggiunte_storico": 5
+}
