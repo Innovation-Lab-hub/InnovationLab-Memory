@@ -1,0 +1,81 @@
+{
+  "config": {
+    "numNotizie": 6,
+    "giorniIndietro": 3,
+    "lingua": "entrambe",
+    "topics": [
+      {
+        "id": "Normativa",
+        "livello": 1
+      }
+    ]
+  },
+  "notizie": [
+    {
+      "titolo": "Consob: nuovo pacchetto di semplificazioni regolamentari",
+      "fonte": "Consob",
+      "url": "https://www.consob.it/web/area-pubblica/home",
+      "data": "2026-05-15",
+      "tag": "Normativa",
+      "tags": {
+        "ambito": "Banche",
+        "materia": "",
+        "ente": "Banca d'Italia"
+      },
+      "sintesi": "Consob approva modifiche regolamentari: soglia internal dealing sale da 20.000 a 50.000 euro, eliminati obblighi di deposito prospetti e semplificazioni per offerte pubbliche.",
+      "rilevanza": "alta",
+      "pdf": "nessuno",
+      "stato": "approved"
+    },
+    {
+      "titolo": "Consob oscura 8 siti internet abusivi",
+      "fonte": "Consob",
+      "url": "https://www.consob.it/web/area-pubblica/dettaglio-news/-/asset_publisher/qjVSo44Lk1fI/content/comunicato-stampa-del-15-maggio-2026-abusivismo/10194",
+      "data": "2026-05-15",
+      "tag": "Normativa",
+      "tags": {
+        "ambito": "",
+        "materia": "",
+        "ente": ""
+      },
+      "sintesi": "Consob ha disposto l'oscuramento di 8 siti internet nell'ambito dell'attività di contrasto all'abusivismo finanziario.",
+      "rilevanza": "media",
+      "pdf": "nessuno",
+      "stato": "approved"
+    },
+    {
+      "titolo": "Banca d'Italia pubblica Nota di stabilità finanziaria n. 51 sui derivati per copertura rischio tasso",
+      "fonte": "Banca d'Italia",
+      "url": "https://www.bancaditalia.it/media/notizia/note-di-stabilit-finanziaria-e-vigilanza-n-51/",
+      "data": "2026-05-08",
+      "tag": "Normativa",
+      "tags": {
+        "ambito": "",
+        "materia": "",
+        "ente": ""
+      },
+      "sintesi": "Pubblicata la Nota n. 51 sull'utilizzo dei derivati da parte delle imprese italiane per la copertura del rischio di tasso di interesse nel periodo 2021-24.",
+      "rilevanza": "media",
+      "pdf": "in-pagina",
+      "stato": "approved"
+    },
+    {
+      "titolo": "PUMA: aggiornamenti tecnici database e manuale segnalazioni",
+      "fonte": "Cooperazione PUMA",
+      "url": "https://www.cooperazionepuma.org/",
+      "data": "2026-05-12",
+      "tag": "Normativa",
+      "tags": {
+        "ambito": "",
+        "materia": "",
+        "ente": ""
+      },
+      "sintesi": "PUMA ha pubblicato aggiornamenti nelle sezioni Codifiche e Manuale, e la nuova versione del database con riferimento alla data contabile del 31 marzo 2026.",
+      "rilevanza": "media",
+      "pdf": "nessuno",
+      "stato": "approved"
+    }
+  ],
+  "timestamp": "2026-05-25T14:54:25.367Z",
+  "notizie_aggiunte_storico": 4
+}
