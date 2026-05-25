@@ -1,5 +1,73 @@
 [
   {
+    "url": "https://www.consob.it/web/area-pubblica/home",
+    "titolo": "Consob: nuovo pacchetto di semplificazioni regolamentari",
+    "fonte": "Consob",
+    "data_pubblicazione": "2026-05-15",
+    "tag": "Normativa",
+    "tags": {
+      "ambito": "Banche",
+      "materia": "",
+      "ente": "Banca d'Italia"
+    },
+    "desc": "Consob approva modifiche regolamentari: soglia internal dealing sale da 20.000 a 50.000 euro, eliminati obblighi di deposito prospetti e semplificazioni per offerte pubbliche.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": false,
+    "pdf_github_url": null,
+    "inviato_a_m3": false
+  },
+  {
+    "url": "https://www.consob.it/web/area-pubblica/dettaglio-news/-/asset_publisher/qjVSo44Lk1fI/content/comunicato-stampa-del-15-maggio-2026-abusivismo/10194",
+    "titolo": "Consob oscura 8 siti internet abusivi",
+    "fonte": "Consob",
+    "data_pubblicazione": "2026-05-15",
+    "tag": "Normativa",
+    "tags": {
+      "ambito": "",
+      "materia": "",
+      "ente": ""
+    },
+    "desc": "Consob ha disposto l'oscuramento di 8 siti internet nell'ambito dell'attività di contrasto all'abusivismo finanziario.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": false,
+    "pdf_github_url": null,
+    "inviato_a_m3": false
+  },
+  {
+    "url": "https://www.bancaditalia.it/media/notizia/note-di-stabilit-finanziaria-e-vigilanza-n-51/",
+    "titolo": "Banca d'Italia pubblica Nota di stabilità finanziaria n. 51 sui derivati per copertura rischio tasso",
+    "fonte": "Banca d'Italia",
+    "data_pubblicazione": "2026-05-08",
+    "tag": "Normativa",
+    "tags": {
+      "ambito": "",
+      "materia": "",
+      "ente": ""
+    },
+    "desc": "Pubblicata la Nota n. 51 sull'utilizzo dei derivati da parte delle imprese italiane per la copertura del rischio di tasso di interesse nel periodo 2021-24.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": true,
+    "pdf_github_url": null,
+    "inviato_a_m3": true
+  },
+  {
+    "url": "https://www.cooperazionepuma.org/",
+    "titolo": "PUMA: aggiornamenti tecnici database e manuale segnalazioni",
+    "fonte": "Cooperazione PUMA",
+    "data_pubblicazione": "2026-05-12",
+    "tag": "Normativa",
+    "tags": {
+      "ambito": "",
+      "materia": "",
+      "ente": ""
+    },
+    "desc": "PUMA ha pubblicato aggiornamenti nelle sezioni Codifiche e Manuale, e la nuova versione del database con riferimento alla data contabile del 31 marzo 2026.",
+    "pubblicato_sul_sito": true,
+    "ha_pdf": false,
+    "pdf_github_url": null,
+    "inviato_a_m3": false
+  },
+  {
     "url": "https://www.srb.europa.eu/en/content/srb-bi-annual-reporting-note-eurogroup-may-2026",
     "titolo": "SRB pubblica il rapporto semestrale all'Eurogruppo sulla risolvibilità delle banche",
     "fonte": "Single Resolution Board",
