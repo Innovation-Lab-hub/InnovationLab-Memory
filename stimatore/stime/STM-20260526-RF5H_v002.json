@@ -1,0 +1,102 @@
+{
+  "idStima": "STM-20260526-RF5H",
+  "versione": 2,
+  "stato": "BOZZA",
+  "dataCreazione": "2026-05-26T16:08:40.207Z",
+  "autore": "derosa-biagio",
+  "nomeProgetto": "Prova",
+  "cliente": "Banca Biagio",
+  "tipologiaProgetto": "Digital Transformation",
+  "areaBusiness": "Finance",
+  "complessita": "Alta",
+  "durataStimataMesi": 11,
+  "funzioniCoinvolte": [
+    "Business & Process Advisory",
+    "PMO"
+  ],
+  "fasi": [
+    {
+      "nomeFase": "Assessment",
+      "attiva": true,
+      "pesoPercentuale": 5
+    },
+    {
+      "nomeFase": "Analisi & Design",
+      "attiva": true,
+      "pesoPercentuale": 20
+    },
+    {
+      "nomeFase": "Sviluppo",
+      "attiva": true,
+      "pesoPercentuale": 55
+    },
+    {
+      "nomeFase": "Test & QA",
+      "attiva": true,
+      "pesoPercentuale": 15
+    },
+    {
+      "nomeFase": "Deploy & Go-Live",
+      "attiva": true,
+      "pesoPercentuale": 5
+    }
+  ],
+  "tariffe": {
+    "Stagista": 50,
+    "Analyst": 200,
+    "Developer": 240,
+    "Consultant": 250,
+    "Developer Senior": 290,
+    "Consultant Senior": 295,
+    "Specialist": 385,
+    "Manager": 510,
+    "Senior Manager": 800
+  },
+  "team": [
+    {
+      "figura": "Analyst",
+      "ruoloProgetto": "Analista Funzionale",
+      "effortGiorni": 15,
+      "tariffaApplicata": 200
+    },
+    {
+      "figura": "Manager",
+      "ruoloProgetto": "Analista Funzionale",
+      "effortGiorni": 5,
+      "tariffaApplicata": 510
+    },
+    {
+      "figura": "Consultant Senior",
+      "ruoloProgetto": "Project Manager",
+      "effortGiorni": 8,
+      "tariffaApplicata": 295
+    },
+    {
+      "figura": "Consultant Senior",
+      "ruoloProgetto": "Business Analyst",
+      "effortGiorni": 11.5,
+      "tariffaApplicata": 295
+    }
+  ],
+  "economics": {
+    "effortTotale": 39.5,
+    "costoTotale": 12998,
+    "contingencyPercent": 15,
+    "contingencyValore": 1695,
+    "ricavi": 19570,
+    "scontoPercent": 0,
+    "margineAssoluto": 6572,
+    "marginePercent": 33.6,
+    "tariffaMedia": 286,
+    "_costoBase": 11303,
+    "_ricaviNetti": 19570
+  },
+  "suggerimentiIgnorati": [],
+  "_meta": {
+    "idStima": "STM-20260526-RF5H",
+    "versione": 2,
+    "autore": "derosa-biagio",
+    "savedAt": "2026-05-26T16:08:41.814Z",
+    "savedVia": "stimatore-save-api"
+  }
+}
